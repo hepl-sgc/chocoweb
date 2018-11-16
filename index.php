@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Eatery Cafe and Restaurant Template</title>
+     <title>Chocoweb - Bienvenue !</title>
 <!-- 
 
 Eatery Cafe Template 
@@ -12,7 +12,7 @@ http://www.templatemo.com/tm-515-eatery
 -->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-     <meta name="description" content="">
+     <meta name="description" content="Fabricant de chocolat officiel pour les étudiants du groupe 2285 à la Haute École de la Province de Liège">
      <meta name="keywords" content="">
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
