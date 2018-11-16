@@ -1,5 +1,7 @@
 # chocoweb
 
+Project started on November 16th 2018.
+
 This project is used as a live example during the _SGC_ course at HEPL (Haute École de la Province de Liège). The course is given in French, so from now on this document will be written in French.
 
 ## Installation
